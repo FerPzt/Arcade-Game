@@ -2,13 +2,11 @@
 
 This is a project from Udacity Front End Nanodegree, for studying purposes.
 
-* To open the game:
-<ul>
-<li>Download this git repository to a local machine</li>
-<li>Open index.html</li>
-</ul>
+#### To open the game:
+* Download this git repository to a local machine</li>
+* Open index.html</li>
 
-* To Play:
+#### To play:
 
 The game starts with one player standing in the grass and 3 bugs running on the bricks from left to right in the screen.
 
